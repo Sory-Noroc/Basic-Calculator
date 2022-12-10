@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.hyperskill.calculator.Stage4UnitTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-09T23:49:38" hostname="LUCKYPC" time="4.12">
+<testsuite name="org.hyperskill.calculator.Stage4UnitTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-10T00:27:44" hostname="LUCKYPC" time="4.392">
   <properties/>
-  <testcase name="testShouldCheckCalculatorSetsHint" classname="org.hyperskill.calculator.Stage4UnitTest" time="3.587"/>
-  <testcase name="testShouldCheckCalculatorClearsHint" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.198"/>
+  <testcase name="testShouldCheckCalculatorSetsHint" classname="org.hyperskill.calculator.Stage4UnitTest" time="3.866"/>
+  <testcase name="testShouldCheckCalculatorClearsHint" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.193"/>
   <testcase name="testShouldCheckCalculatorReturnsTheIntAnswer" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.168"/>
-  <testcase name="testShouldCheckCalculatorReturnsTheDoubleAnswer" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.166"/>
+  <testcase name="testShouldCheckCalculatorReturnsTheDoubleAnswer" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.164"/>
   <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
 resources.arsc in APK 'C:\Users\sorin\.m2\repository\org\robolectric\android-all-instrumented\10-robolectric-5803371-i3\android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
 ]]></system-out>
