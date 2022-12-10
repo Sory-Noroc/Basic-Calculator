@@ -8,13 +8,6 @@ import androidx.core.text.set
 
 class MainActivity : AppCompatActivity() {
 
-    enum class Operation {
-        ADD,
-        SUBTRACT,
-        MULTIPLY,
-        DIVIDE
-    }
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
